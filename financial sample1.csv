@@ -1,0 +1,300 @@
+Segment,Country,Product,Discount_Band,Units_Sold,Manufacturing_Price,Sales_Price,Gross_Sales,Sales,COGS,Profit,Date,Month_Number, Month_Name ,Year
+Government,Canada,Carretera, None ,1618.5,3,20,32370,32370,16185,16185,1/1/2014,1, January ,2014
+Government,Germany,Carretera, None ,1321,3,20,26420,26420,13210,,1/1/2014,1, January ,2014
+Midmarket,France,Carretera,,2178,,15,32670,32670,21780,10890,6/1/2014,6, June ,2014
+Midmarket,Germany,Carretera, None ,888,3,15,13320,13320,8880,4440,6/1/2014,6, June ,2014
+Midmarket,Mexico,Carretera, None ,2470,3,15,37050,37050,24700,12350,6/1/2014,6, June ,2014
+Government,Germany,Carretera, None ,1513,3,350,529550,529550,393380,136170,12/1/2014,12, December ,2014
+Midmarket,Germany,Montana, None ,921,5,15,13815,13815,9210,4605,3/1/2014,3, March ,2014
+Channel Partners,Canada,, None ,2518,5,12,30216,30216,7554,22662,6/1/2014,6, June ,2014
+Government,France,Montana, None ,1899,5,20,37980,37980,18990,18990,6/1/2014,6, June ,2014
+Channel Partners,Germany,Montana, None ,1545,,12,18540,18540,4635,13905,6/1/2014,6, June ,2014
+Midmarket,Mexico,Montana, None ,2470,5,15,37050,37050,24700,12350,6/1/2014,6, June ,2014
+Enterprise,Canada,Montana, None ,2665.5,5,125,333187.5,333187.5,319860,13327.5,7/1/2014,7, July ,2014
+Small Business,Mexico,Montana,,958,5,300,287400,287400,239500,47900,,8, August ,2014
+Government,Germany,Montana, None ,2146,5,7,15022,15022,10730,4292,9/1/2014,9, September ,2014
+Enterprise,Canada,Montana, None ,345,5,125,43125,43125,41400,1725,10/1/2013,10, October ,2013
+Midmarket,United States of America,Montana, None ,615,5,15,9225,9225,6150,,12/1/2014,12, December ,2014
+Government,Canada,Paseo, None ,292,10,20,5840,5840,2920,2920,2/1/2014,2, February ,2014
+Midmarket,Mexico,Paseo, None ,974,10,15,14610,14610,9740,4870,2/1/2014,2, February ,2014
+Channel Partners,Canada,Paseo, None ,2518,10,12,30216,30216,7554,22662,6/1/2014,6, June ,2014
+Government,Germany,, None ,1006,10,350,352100,352100,261560,90540,6/1/2014,6, June ,2014
+Channel Partners,Germany,Paseo, None ,367,10,12,4404,4404,1101,3303,7/1/2014,7, July ,2014
+Government,Mexico,Paseo, None ,883,10,7,6181,6181,4415,1766,8/1/2014,8, August ,2014
+Midmarket,France,Paseo, None ,549,10,15,8235,8235,5490,2745,9/1/2013,9, September ,2013
+Small Business,Mexico,Paseo, None ,788,10,300,236400,236400,197000,39400,9/1/2013,9, September ,2013
+Midmarket,Mexico,Paseo, None ,2472,10,15,37080,37080,24720,12360,9/1/2014,9, September ,2014
+Government,United States of America,Paseo, None ,1143,10,7,8001,8001,5715,2286,10/1/2014,10, October ,2014
+Government,Canada,Paseo, None ,1725,10,350,603750,603750,448500,155250,11/1/2013,11, November ,2013
+Channel Partners,United States of America,Paseo, None ,912,10,12,10944,10944,2736,8208,11/1/2013,11, November ,2013
+Midmarket,Canada,Paseo, None ,2152,10,15,32280,32280,21520,10760,12/1/2013,12, December ,2013
+Government,Canada,Paseo, None ,1817,10,20,36340,36340,18170,18170,12/1/2014,12, December ,2014
+Government,Germany,Paseo, None ,1513,10,350,529550,529550,393380,136170,12/1/2014,12, December ,2014
+Government,Mexico,Velo, None ,1493,120,7,10451,10451,7465,2986,1/1/2014,1, January ,2014
+Enterprise,France,Velo, None ,1804,120,125,225500,225500,216480,9020,2/1/2014,2, February ,2014
+Channel Partners,Germany,Velo, None ,2161,120,12,25932,25932,6483,19449,3/1/2014,3, March ,2014
+Government,Germany,Velo, None ,1006,120,350,352100,352100,261560,90540,6/1/2014,6, June ,2014
+Channel Partners,Germany,Velo, None ,1545,120,12,18540,18540,4635,13905,6/1/2014,6, June ,2014
+Enterprise,United States of America,Velo, None ,2821,120,125,352625,352625,338520,14105,8/1/2014,8, August ,2014
+Enterprise,Canada,Velo, None ,345,120,125,43125,43125,41400,1725,10/1/2013,10, October ,2013
+Small Business,Canada,VTT, None ,2001,250,300,600300,600300,500250,100050,2/1/2014,2, February ,2014
+Channel Partners,Germany,VTT, None ,2838,250,12,34056,34056,8514,25542,4/1/2014,4, April ,2014
+Midmarket,France,VTT, None ,2178,250,15,32670,32670,21780,10890,6/1/2014,6, June ,2014
+Midmarket,Germany,VTT, None ,888,250,15,13320,13320,8880,4440,6/1/2014,6, June ,2014
+Government,France,VTT, None ,1527,250,350,534450,534450,397020,137430,9/1/2013,9, September ,2013
+Small Business,France,VTT, None ,2151,250,300,645300,645300,537750,107550,9/1/2014,9, September ,2014
+Government,Canada,VTT, None ,1817,250,20,36340,36340,18170,18170,12/1/2014,12, December ,2014
+Government,France,Amarilla, None ,2750,260,350,962500,962500,715000,247500,2/1/2014,2, February ,2014
+Channel Partners,United States of America,Amarilla, None ,1953,260,12,23436,23436,5859,17577,4/1/2014,4, April ,2014
+Enterprise,Germany,Amarilla, None ,4219.5,,125,527437.5,527437.5,506340,21097.5,4/1/2014,4, April ,2014
+Government,France,Amarilla, None ,1899,260,20,37980,37980,18990,18990,6/1/2014,6, June ,2014
+Government,Germany,Amarilla, None ,1686,260,7,11802,11802,8430,3372,7/1/2014,7, July ,2014
+Channel Partners,United States of America,Amarilla, None ,2141,260,12,25692,25692,6423,19269,8/1/2014,8, August ,2014
+Government,United States of America,Amarilla, None ,1143,260,7,8001,8001,5715,2286,10/1/2014,10, October ,2014
+Midmarket,United States of America,Amarilla, None ,615,260,15,9225,9225,6150,3075,12/1/2014,12, December ,2014
+Government,France,Paseo, Low ,3945,,7,27615,27338.85,19725,7613.85,1/1/2014,1, January ,2014
+Midmarket,France,Paseo, Low ,2296,10,15,34440,34095.6,22960,11135.6,2/1/2014,2, February ,2014
+Government,France,Paseo, Low ,1030,10,7,7210,7137.9,5150,1987.9,5/1/2014,5, May ,2014
+Government,France,Velo, Low ,639,120,7,4473,4428.27,3195,1233.27,11/1/2014,11, November ,2014
+Government,Canada,VTT, Low ,1326,250,7,9282,9189.18,6630,2559.18,3/1/2014,3, March ,2014
+Channel Partners,United States of America,Carretera, Low ,1858,3,12,22296,22073.04,5574,16499.04,2/1/2014,2, February ,2014
+Government,Mexico,Carretera, Low ,1210,3,350,423500,419265,314600,104665,3/1/2014,3, March ,2014
+Government,United States of America,Carretera, Low ,2529,3,7,17703,17525.97,12645,4880.97,7/1/2014,7, July ,2014
+Channel Partners,Canada,Carretera, Low ,1445,3,12,17340,17166.6,4335,12831.6,9/1/2014,9, September ,2014
+Enterprise,United States of America,Carretera, Low ,330,3,125,41250,40837.5,39600,1237.5,9/1/2013,9, September ,2013
+Channel Partners,France,Carretera, Low ,2671,3,12,32052,31731.48,8013,23718.48,9/1/2014,9, September ,2014
+Channel Partners,Germany,Carretera, Low ,766,3,12,9192,9100.08,2298,6802.08,10/1/2013,10, October ,2013
+Small Business,Mexico,Carretera, Low ,494,3,300,148200,146718,123500,23218,10/1/2013,10, October ,2013
+Government,Mexico,Carretera, Low ,1397,3,350,488950,484060.5,363220,120840.5,10/1/2014,10, October ,2014
+Government,France,Carretera, Low ,2155,3,350,754250,746707.5,560300,186407.5,12/1/2014,12, December ,2014
+Midmarket,Mexico,Montana, Low ,2214,5,15,33210,32877.9,22140,10737.9,3/1/2014,3, March ,2014
+Small Business,United States of America,Montana, Low ,2301,5,300,690300,683397,575250,108147,4/1/2014,4, April ,2014
+Government,France,Montana, Low ,1375.5,5,20,27510,27234.9,13755,13479.9,7/1/2014,7, July ,2014
+Government,Canada,Montana, Low ,1830,5,7,12810,12681.9,9150,3531.9,8/1/2014,8, August ,2014
+Small Business,United States of America,Montana, Low ,2498,5,300,749400,741906,624500,117406,9/1/2013,9, September ,2013
+Enterprise,United States of America,Montana, Low ,663,5,125,82875,82046.25,79560,2486.25,10/1/2013,10, October ,2013
+Midmarket,United States of America,Paseo, Low ,1514,10,15,22710,22482.9,15140,7342.9,2/1/2014,2, February ,2014
+Government,United States of America,Paseo, Low ,4492.5,10,7,31447.5,31133.025,22462.5,8670.525,4/1/2014,4, April ,2014
+Enterprise,United States of America,Paseo, Low ,727,10,125,90875,89966.25,87240,2726.25,6/1/2014,6, June ,2014
+Enterprise,France,Paseo, Low ,787,10,125,98375,97391.25,94440,2951.25,6/1/2014,6, June ,2014
+Enterprise,Mexico,Paseo, Low ,1823,10,125,227875,225596.25,218760,6836.25,7/1/2014,7, July ,2014
+Midmarket,Germany,Paseo, Low ,747,10,15,11205,11092.95,7470,3622.95,9/1/2014,9, September ,2014
+Channel Partners,Germany,Paseo, Low ,766,10,12,9192,9100.08,2298,6802.08,10/1/2013,10, October ,2013
+Small Business,United States of America,Paseo, Low ,2905,10,300,871500,862785,726250,136535,11/1/2014,11, November ,2014
+Government,France,Paseo, Low ,2155,10,350,754250,746707.5,560300,186407.5,12/1/2014,12, December ,2014
+Government,France,Velo, Low ,3864,120,20,77280,76507.2,38640,37867.2,4/1/2014,4, April ,2014
+Government,Mexico,Velo, Low ,362,120,7,2534,2508.66,1810,698.66,5/1/2014,5, May ,2014
+Enterprise,Canada,Velo, Low ,923,120,125,115375,114221.25,110760,3461.25,8/1/2014,8, August ,2014
+Enterprise,United States of America,Velo, Low ,663,120,125,82875,82046.25,79560,2486.25,10/1/2013,10, October ,2013
+Government,Canada,Velo, Low ,2092,120,7,14644,14497.56,10460,4037.56,11/1/2013,11, November ,2013
+Government,Germany,VTT, Low ,263,250,7,1841,1822.59,1315,507.59,3/1/2014,3, March ,2014
+Government,Canada,VTT, Low ,943.5,250,350,330225,326922.75,245310,81612.75,4/1/2014,4, April ,2014
+Enterprise,United States of America,VTT, Low ,727,250,125,90875,89966.25,87240,2726.25,6/1/2014,6, June ,2014
+Enterprise,France,VTT, Low ,787,250,125,98375,97391.25,94440,2951.25,6/1/2014,6, June ,2014
+Small Business,Germany,VTT, Low ,986,250,300,295800,292842,246500,46342,9/1/2014,9, September ,2014
+Small Business,Mexico,VTT, Low ,494,250,300,148200,146718,123500,23218,10/1/2013,10, October ,2013
+Government,Mexico,VTT, Low ,1397,250,350,488950,484060.5,363220,120840.5,10/1/2014,10, October ,2014
+Enterprise,France,VTT, Low ,1744,250,125,218000,215820,209280,6540,11/1/2014,11, November ,2014
+Channel Partners,United States of America,Amarilla, Low ,1989,260,12,23868,23629.32,5967,17662.32,9/1/2013,9, September ,2013
+Midmarket,France,Amarilla, Low ,321,260,15,4815,4766.85,3210,1556.85,11/1/2013,11, November ,2013
+Enterprise,Canada,Carretera, Low ,742.5,3,125,92812.5,90956.25,89100,1856.25,4/1/2014,4, April ,2014
+Channel Partners,Canada,Carretera, Low ,1295,3,12,15540,15229.2,3885,11344.2,10/1/2014,10, October ,2014
+Small Business,Germany,Carretera, Low ,214,3,300,64200,62916,53500,9416,10/1/2013,10, October ,2013
+Government,France,Carretera, Low ,2145,3,7,15015,14714.7,10725,3989.7,11/1/2013,11, November ,2013
+Government,Canada,Carretera, Low ,2852,3,350,998200,978236,741520,236716,12/1/2014,12, December ,2014
+Channel Partners,United States of America,Montana, Low ,1142,5,12,13704,13429.92,3426,10003.92,6/1/2014,6, June ,2014
+Government,United States of America,Montana, Low ,1566,5,20,31320,30693.6,15660,15033.6,10/1/2014,10, October ,2014
+Channel Partners,Mexico,Montana, Low ,690,5,12,8280,8114.4,2070,6044.4,11/1/2014,11, November ,2014
+Enterprise,Mexico,Montana, Low ,1660,5,125,207500,203350,199200,4150,11/1/2013,11, November ,2013
+Midmarket,Canada,Paseo, Low ,2363,10,15,35445,34736.1,23630,11106.1,2/1/2014,2, February ,2014
+Small Business,France,Paseo, Low ,918,10,300,275400,269892,229500,40392,5/1/2014,5, May ,2014
+Small Business,Germany,Paseo, Low ,1728,10,300,518400,508032,432000,76032,5/1/2014,5, May ,2014
+Channel Partners,United States of America,Paseo, Low ,1142,10,12,13704,13429.92,3426,10003.92,6/1/2014,6, June ,2014
+Enterprise,Mexico,Paseo, Low ,662,10,125,82750,81095,79440,1655,6/1/2014,6, June ,2014
+Channel Partners,Canada,Paseo, Low ,1295,10,12,15540,15229.2,3885,11344.2,10/1/2014,10, October ,2014
+Enterprise,Germany,Paseo, Low ,809,10,125,101125,99102.5,97080,2022.5,10/1/2013,10, October ,2013
+Enterprise,Mexico,Paseo, Low ,2145,10,125,268125,262762.5,257400,5362.5,10/1/2013,10, October ,2013
+Channel Partners,France,Paseo, Low ,1785,10,12,21420,20991.6,5355,15636.6,11/1/2013,11, November ,2013
+Small Business,Canada,Paseo, Low ,1916,10,300,574800,563304,479000,84304,12/1/2014,12, December ,2014
+Government,Canada,Paseo, Low ,2852,10,350,998200,978236,741520,236716,12/1/2014,12, December ,2014
+Enterprise,Canada,Paseo, Low ,2729,10,125,341125,334302.5,327480,6822.5,12/1/2014,12, December ,2014
+Midmarket,United States of America,Paseo, Low ,1925,10,15,28875,28297.5,19250,9047.5,12/1/2013,12, December ,2013
+Government,United States of America,Paseo, Low ,2013,10,7,14091,13809.18,10065,3744.18,12/1/2013,12, December ,2013
+Channel Partners,France,Paseo, Low ,1055,10,12,12660,12406.8,3165,9241.8,12/1/2014,12, December ,2014
+Channel Partners,Mexico,Paseo, Low ,1084,10,12,13008,12747.84,3252,9495.84,12/1/2014,12, December ,2014
+Government,United States of America,Velo, Low ,1566,120,20,31320,30693.6,15660,15033.6,10/1/2014,10, October ,2014
+Government,Germany,Velo, Low ,2966,120,350,1038100,1017338,771160,246178,10/1/2013,10, October ,2013
+Government,Germany,Velo, Low ,2877,120,350,1006950,986811,748020,238791,10/1/2014,10, October ,2014
+Enterprise,Germany,Velo, Low ,809,120,125,101125,99102.5,97080,2022.5,10/1/2013,10, October ,2013
+Enterprise,Mexico,Velo, Low ,2145,120,125,268125,262762.5,257400,5362.5,10/1/2013,10, October ,2013
+Channel Partners,France,Velo, Low ,1055,120,12,12660,12406.8,3165,9241.8,12/1/2014,12, December ,2014
+Government,Mexico,Velo, Low ,544,120,20,10880,10662.4,5440,5222.4,12/1/2013,12, December ,2013
+Channel Partners,Mexico,Velo, Low ,1084,120,12,13008,12747.84,3252,9495.84,12/1/2014,12, December ,2014
+Enterprise,Mexico,VTT, Low ,662,250,125,82750,81095,79440,1655,6/1/2014,6, June ,2014
+Small Business,Germany,VTT, Low ,214,250,300,64200,62916,53500,9416,10/1/2013,10, October ,2013
+Government,Germany,VTT, Low ,2877,250,350,1006950,986811,748020,238791,10/1/2014,10, October ,2014
+Enterprise,Canada,VTT, Low ,2729,250,125,341125,334302.5,327480,6822.5,12/1/2014,12, December ,2014
+Government,United States of America,VTT, Low ,266,250,350,93100,91238,69160,22078,12/1/2013,12, December ,2013
+Government,Mexico,VTT, Low ,1940,250,350,679000,665420,504400,161020,12/1/2013,12, December ,2013
+Small Business,Germany,Amarilla, Low ,259,260,300,77700,76146,64750,11396,3/1/2014,3, March ,2014
+Small Business,Mexico,Amarilla, Low ,1101,260,300,330300,323694,275250,48444,3/1/2014,3, March ,2014
+Enterprise,Germany,Amarilla, Low ,2276,260,125,284500,278810,273120,5690,5/1/2014,5, May ,2014
+Government,Germany,Amarilla, Low ,2966,260,350,1038100,1017338,771160,246178,10/1/2013,10, October ,2013
+Government,United States of America,Amarilla, Low ,1236,260,20,24720,24225.6,12360,11865.6,11/1/2014,11, November ,2014
+Government,France,Amarilla, Low ,941,260,20,18820,18443.6,9410,9033.6,11/1/2014,11, November ,2014
+Small Business,Canada,Amarilla, Low ,1916,260,300,574800,563304,479000,84304,12/1/2014,12, December ,2014
+Enterprise,France,Carretera, Low ,4243.5,3,125,530437.5,514524.375,509220,5304.375,4/1/2014,4, April ,2014
+Government,Germany,Carretera, Low ,2580,3,20,51600,50052,25800,24252,4/1/2014,4, April ,2014
+Small Business,Germany,Carretera, Low ,689,3,300,206700,200499,172250,28249,6/1/2014,6, June ,2014
+Channel Partners,United States of America,Carretera, Low ,1947,3,12,23364,22663.08,5841,16822.08,9/1/2014,9, September ,2014
+Channel Partners,Canada,Carretera, Low ,908,3,12,10896,10569.12,2724,7845.12,12/1/2013,12, December ,2013
+Government,Germany,Montana, Low ,1958,5,7,13706,13294.82,9790,3504.82,2/1/2014,2, February ,2014
+Channel Partners,France,Montana, Low ,1901,5,12,22812,22127.64,5703,16424.64,6/1/2014,6, June ,2014
+Government,France,Montana, Low ,544,5,7,3808,3693.76,2720,973.76,9/1/2014,9, September ,2014
+Government,Germany,Montana, Low ,1797,5,350,628950,610081.5,467220,142861.5,9/1/2013,9, September ,2013
+Enterprise,France,Montana, Low ,1287,5,125,160875,156048.75,154440,1608.75,12/1/2014,12, December ,2014
+Enterprise,Germany,Montana, Low ,1706,5,125,213250,206852.5,204720,2132.5,12/1/2014,12, December ,2014
+Small Business,France,Paseo, Low ,2434.5,10,300,730350,708439.5,608625,99814.5,1/1/2014,1, January ,2014
+Enterprise,Canada,Paseo, Low ,1774,10,125,221750,215097.5,212880,2217.5,3/1/2014,3, March ,2014
+Channel Partners,France,Paseo, Low ,1901,10,12,22812,22127.64,5703,16424.64,6/1/2014,6, June ,2014
+Small Business,Germany,Paseo, Low ,689,10,300,206700,200499,172250,28249,6/1/2014,6, June ,2014
+Enterprise,Germany,Paseo, Low ,1570,10,125,196250,190362.5,188400,1962.5,6/1/2014,6, June ,2014
+Channel Partners,United States of America,Paseo, Low ,1369.5,10,12,16434,15940.98,4108.5,11832.48,7/1/2014,7, July ,2014
+Enterprise,Canada,Paseo, Low ,2009,10,125,251125,243591.25,241080,2511.25,10/1/2014,10, October ,2014
+Midmarket,Germany,Paseo, Low ,1945,10,15,29175,28299.75,19450,8849.75,10/1/2013,10, October ,2013
+Enterprise,France,Paseo, Low ,1287,10,125,160875,156048.75,154440,1608.75,12/1/2014,12, December ,2014
+Enterprise,Germany,Paseo, Low ,1706,10,125,213250,206852.5,204720,2132.5,12/1/2014,12, December ,2014
+Enterprise,Canada,Velo, Low ,2009,120,125,251125,243591.25,241080,2511.25,10/1/2014,10, October ,2014
+Small Business,United States of America,VTT, Low ,2844,250,300,853200,,711000,116604,2/1/2014,2, February ,2014
+Channel Partners,Mexico,VTT, Low ,1916,250,12,22992,22302.24,5748,16554.24,4/1/2014,4, April ,2014
+Enterprise,Germany,VTT, Low ,1570,250,125,196250,190362.5,,1962.5,6/1/2014,6, June ,2014
+Small Business,Canada,VTT, Low ,1874,250,300,562200,545334,468500,76834,8/1/2014,8, August ,2014
+Government,Mexico,VTT, Low ,1642,250,350,574700,,426920,130539,8/1/2014,8, August ,2014
+Midmarket,Germany,VTT, Low ,1945,250,15,29175,28299.75,19450,8849.75,10/1/2013,10, October ,2013
+Government,Canada,Carretera, Low ,831,3,20,16620,16121.4,8310,7811.4,5/1/2014,5, May ,2014
+Government,Mexico,Paseo, Low ,1760,10,7,12320,11950.4,8800,3150.4,9/1/2013,9, September ,2013
+Government,Canada,Velo, Low ,3850.5,120,20,77010,74699.7,38505,36194.7,4/1/2014,4, April ,2014
+Channel Partners,Germany,VTT, Low ,2479,250,12,29748,28855.56,,21418.56,1/1/2014,1, January ,2014
+Midmarket,Mexico,Montana, Low ,2031,5,15,30465,29246.4,20310,8936.4,10/1/2014,10, October ,2014
+Midmarket,Mexico,Paseo, Low ,2031,10,15,30465,29246.4,20310,8936.4,10/1/2014,10, October ,2014
+Midmarket,France,Paseo, Low ,2261,10,15,33915,32558.4,22610,9948.4,12/1/2013,12, December ,2013
+Government,United States of America,Velo, Low ,736,120,20,14720,14131.2,7360,6771.2,9/1/2013,9, September ,2013
+Government,Canada,Carretera, Low ,2851,3,7,19957,19158.72,,4903.72,10/1/2013,10, October ,2013
+Small Business,Germany,Carretera, Low ,2021,3,300,606300,582048,505250,76798,10/1/2014,10, October ,2014
+Government,United States of America,Carretera, Low ,274,3,350,95900,92064,71240,20824,12/1/2014,12, December ,2014
+Midmarket,Canada,Montana, Low ,1967,5,15,29505,28324.8,19670,8654.8,3/1/2014,3, March ,2014
+Small Business,Germany,Montana, Low ,1859,5,300,557700,535392,464750,70642,8/1/2014,8, August ,2014
+Government,Canada,Montana, Low ,2851,5,7,19957,19158.72,,4903.72,10/1/2013,10, October ,2013
+Small Business,Germany,Montana, Low ,2021,5,300,606300,582048,505250,76798,10/1/2014,10, October ,2014
+Enterprise,Mexico,Montana, Low ,1138,5,125,142250,136560,136560,,12/1/2014,12, December ,2014
+Government,Canada,Paseo, Low ,4251,10,7,29757,28566.72,21255,7311.72,1/1/2014,1, January ,2014
+Enterprise,Germany,Paseo, Low ,795,10,125,99375,,95400,,3/1/2014,3, March ,2014
+Small Business,Germany,Paseo, Low ,1414.5,10,300,424350,407376,353625,53751,4/1/2014,4, April ,2014
+Small Business,United States of America,Paseo, Low ,2918,10,300,875400,840384,729500,110884,5/1/2014,5, May ,2014
+Government,United States of America,Paseo, Low ,3450,10,350,1207500,1159200,897000,262200,7/1/2014,7, July ,2014
+Enterprise,France,Paseo, Low ,2988,10,125,373500,358560,358560,,7/1/2014,7, July ,2014
+Midmarket,Canada,Paseo, Low ,218,10,15,3270,3139.2,2180,959.2,9/1/2014,9, September ,2014
+Government,Canada,Paseo, Low ,2074,10,20,41480,39820.8,20740,19080.8,9/1/2014,9, September ,2014
+Government,United States of America,Paseo, Low ,1056,10,20,21120,20275.2,10560,9715.2,9/1/2014,9, September ,2014
+Midmarket,United States of America,Paseo, Low ,671,10,15,10065,,6710,2952.4,10/1/2013,10, October ,2013
+Midmarket,Mexico,Paseo, Low ,1514,10,15,22710,21801.6,15140,6661.6,10/1/2013,10, October ,2013
+Government,United States of America,Paseo, Low ,274,10,350,95900,92064,71240,20824,12/1/2014,12, December ,2014
+Enterprise,Mexico,Paseo, Low ,1138,10,125,142250,136560,136560,0,12/1/2014,12, December ,2014
+Channel Partners,United States of America,Velo, Low ,1465,120,12,17580,16876.8,4395,12481.8,3/1/2014,3, March ,2014
+Government,Canada,Velo, Low ,2646,120,20,52920,50803.2,26460,24343.2,9/1/2013,9, September ,2013
+Government,France,Velo, Low ,2177,120,350,761950,731472,566020,165452,10/1/2014,10, October ,2014
+Channel Partners,France,VTT, Low ,866,250,,10392,9976.32,2598,7378.32,5/1/2014,5, May ,2014
+Government,United States of America,VTT, Low ,349,250,350,122150,117264,90740,26524,9/1/2013,9, September ,2013
+Government,France,VTT, Low ,2177,250,350,,731472,566020,165452,10/1/2014,10, October ,2014
+Midmarket,Mexico,VTT, Low ,1514,250,15,22710,21801.6,15140,6661.6,10/1/2013,10, October ,2013
+Government,Mexico,Amarilla, Low ,1865,260,350,652750,626640,484900,141740,2/1/2014,2, February ,2014
+Enterprise,Mexico,Amarilla, Low ,1074,260,125,134250,128880,128880,0,4/1/2014,4, April ,2014
+Government,Germany,Amarilla, Low ,1907,260,350,667450,640752,495820,144932,9/1/2014,9, September ,2014
+Midmarket,United States of America,Amarilla, Low ,671,260,15,10065,9662.4,6710,2952.4,10/1/2013,10, October ,2013
+Government,Canada,Amarilla, Low ,1778,260,,,597408,462280,135128,12/1/2013,12, December ,2013
+Government,Germany,Montana, Medium ,1159,5,7,8113,7707.35,5795,1912.35,10/1/2013,10, October ,2013
+Government,Germany,Paseo, Medium ,1372,10,7,9604,9123.8,6860,2263.8,1/1/2014,1, January ,2014
+Government,Canada,Paseo, Medium ,2349,10,7,16443,15620.85,11745,3875.85,9/1/2013,9, September ,2013
+Government,Mexico,Paseo, Medium ,2689,10,,18823,17881.85,13445,4436.85,10/1/2014,10, October ,2014
+Channel Partners,Canada,Paseo, Medium ,2431,10,12,29172,27713.4,7293,20420.4,12/1/2014,12, December ,2014
+Channel Partners,Canada,Velo, Medium ,2431,120,12,29172,27713.4,7293,20420.4,12/1/2014,12, December ,2014
+Government,Mexico,VTT, Medium ,2689,250,7,18823,17881.85,13445,4436.85,10/1/2014,10, October ,2014
+Government,Mexico,Amarilla, Medium ,1683,260,7,11781,11191.95,8415,2776.95,7/1/2014,7, July ,2014
+Channel Partners,Mexico,Amarilla, Medium ,1123,260,12,13476,12802.2,3369,9433.2,8/1/2014,8, August ,2014
+Government,Germany,Amarilla, Medium ,1159,260,7,8113,7707.35,5795,1912.35,10/1/2013,10, October ,2013
+Channel Partners,France,Carretera, Medium ,1865,3,12,22380,21261,5595,15666,2/1/2014,2, February ,2014
+Channel Partners,Germany,Carretera, Medium ,1116,3,12,13392,12722.4,3348,9374.4,2/1/2014,2, February ,2014
+Government,France,Carretera, Medium ,1563,3,20,31260,29697,15630,14067,5/1/2014,5, May ,2014
+Small Business,United States of America,Carretera, Medium ,991,3,300,,282435,247750,34685,6/1/2014,6, June ,2014
+Government,Germany,Carretera, Medium ,1016,3,7,7112,6756.4,5080,1676.4,11/1/2013,11, November ,2013
+Midmarket,Mexico,Carretera, Medium ,2791,3,15,41865,39771.75,27910,11861.75,11/1/2014,11, November ,2014
+Government,United States of America,Carretera, Medium ,570,3,7,3990,3790.5,2850,940.5,12/1/2014,12, December ,2014
+Government,France,Carretera, Medium ,2487,3,7,17409,16538.55,12435,4103.55,12/1/2014,12, December ,2014
+Government,France,Montana, Medium ,1384.5,5,350,484575,,359970,100376.25,1/1/2014,1, January ,2014
+Enterprise,United States of America,Montana, Medium ,3627,5,125,453375,430706.25,435240,-4533.75,7/1/2014,7, July ,2014
+Government,Mexico,Montana, Medium ,720,5,350,252000,239400,187200,52200,9/1/2013,9, September ,2013
+Channel Partners,Germany,Montana, Medium ,2342,5,12,,26698.8,7026,19672.8,11/1/2014,11, November ,2014
+Small Business,Mexico,Montana, Medium ,1100,5,300,330000,313500,275000,38500,12/1/2013,12, December ,2013
+Government,France,Paseo, Medium ,1303,10,20,26060,24757,13030,11727,2/1/2014,2, February ,2014
+Enterprise,United States of America,Paseo, Medium ,2992,10,125,374000,355300,359040,-3740,3/1/2014,3, March ,2014
+Enterprise,France,Paseo, Medium ,2385,10,125,298125,283218.75,286200,-2981.25,3/1/2014,3, March ,2014
+Small Business,Mexico,Paseo, Medium ,1607,10,300,482100,457995,401750,56245,4/1/2014,4, April ,2014
+Government,United States of America,Paseo, Medium ,2327,10,7,16289,15474.55,11635,3839.55,5/1/2014,5, May ,2014
+Small Business,United States of America,Paseo, Medium ,991,10,300,297300,282435,247750,34685,6/1/2014,6, June ,2014
+Government,United States of America,Paseo, Medium ,602,10,350,210700,200165,156520,43645,6/1/2014,6, June ,2014
+Midmarket,France,Paseo, Medium ,2620,10,15,39300,37335,26200,11135,9/1/2014,9, September ,2014
+Government,Canada,Paseo, Medium ,1228,10,,429800,408310,319280,89030,10/1/2013,10, October ,2013
+Government,Canada,Paseo, Medium ,1389,10,20,27780,26391,13890,12501,10/1/2013,10, October ,2013
+Enterprise,United States of America,Paseo, Medium ,861,10,125,107625,102243.75,103320,-1076.25,10/1/2014,10, October ,2014
+Enterprise,France,Paseo, Medium ,704,,125,88000,83600,84480,-880,10/1/2013,10, October ,2013
+Government,Canada,Paseo, Medium ,1802,10,20,36040,34238,18020,16218,12/1/2013,12, December ,2013
+Government,United States of America,Paseo, Medium ,2663,10,20,53260,50597,26630,23967,12/1/2014,12, December ,2014
+Government,France,Paseo, Medium ,2136,10,7,14952,14204.4,10680,3524.4,12/1/2013,12, December ,2013
+Midmarket,Germany,Paseo, Medium ,2116,10,15,31740,30153,21160,8993,12/1/2013,12, December ,2013
+Midmarket,United States of America,Velo, Medium ,555,120,15,8325,7908.75,5550,2358.75,1/1/2014,1, January ,2014
+Midmarket,Mexico,Velo, Medium ,2861,120,15,42915,40769.25,28610,12159.25,1/1/2014,1, January ,2014
+Enterprise,Germany,Velo, Medium ,807,120,125,100875,95831.25,96840,-1008.75,2/1/2014,2, February ,2014
+Government,United States of America,Velo, Medium ,602,120,350,210700,200165,156520,43645,6/1/2014,6, June ,2014
+Government,United States of America,Velo, Medium ,2832,120,20,56640,53808,28320,25488,8/1/2014,8, August ,2014
+Government,France,Velo, Medium ,1579,120,20,31580,30001,15790,14211,8/1/2014,8, August ,2014
+Enterprise,United States of America,Velo, Medium ,861,120,,107625,102243.75,103320,-1076.25,10/1/2014,10, October ,2014
+Enterprise,France,Velo, Medium ,704,120,125,88000,83600,84480,-880,10/1/2013,10, October ,2013
+Government,France,Velo, Medium ,1033,120,20,20660,19627,10330,9297,12/1/2013,12, December ,2013
+Small Business,Germany,Velo, Medium ,1250,120,300,375000,356250,312500,43750,12/1/2014,12, December ,2014
+Government,Canada,VTT, Medium ,1389,250,20,27780,26391,13890,12501,10/1/2013,10, October ,2013
+Government,United States of America,VTT, Medium ,1265,250,20,25300,24035,12650,11385,11/1/2013,11, November ,2013
+Government,Germany,VTT, Medium ,2297,250,20,45940,43643,22970,20673,11/1/2013,11, November ,2013
+Government,United States of America,VTT, Medium ,2663,250,20,53260,50597,26630,23967,12/1/2014,12, December ,2014
+Government,United States of America,VTT, Medium ,570,250,7,3990,3790.5,2850,940.5,12/1/2014,12, December ,2014
+Government,France,VTT, Medium ,2487,250,7,17409,16538.55,12435,4103.55,12/1/2014,12, December ,2014
+Government,Germany,Amarilla, Medium ,1350,260,350,472500,448875,351000,,2/1/2014,2, February ,2014
+Government,Canada,Amarilla, Medium ,552,260,350,193200,183540,143520,40020,8/1/2014,8, August ,2014
+Government,Canada,Amarilla, Medium ,1228,260,350,429800,408310,319280,89030,10/1/2013,10, October ,2013
+Small Business,Germany,Amarilla, Medium ,1250,260,300,375000,356250,312500,43750,12/1/2014,12, December ,2014
+Midmarket,France,Paseo, Medium ,3801,10,15,57015,53594.1,,15584.1,4/1/2014,4, April ,2014
+Government,United States of America,Carretera, Medium ,1117.5,3,20,22350,21009,11175,9834,1/1/2014,1, January ,2014
+Midmarket,Canada,Carretera, Medium ,2844,3,15,42660,40100.4,28440,11660.4,6/1/2014,6, June ,2014
+Channel Partners,Mexico,Carretera, Medium ,562,3,12,6744,6339.36,1686,4653.36,9/1/2014,9, September ,2014
+Channel Partners,Canada,Carretera, Medium ,2299,3,12,27588,25932.72,6897,19035.72,10/1/2013,10, October ,2013
+Midmarket,United States of America,Carretera, Medium ,2030,3,15,30450,28623,20300,8323,11/1/2014,11, November ,2014
+Government,United States of America,Carretera, Medium ,263,3,7,1841,1730.54,1315,415.54,11/1/2013,11, November ,2013
+Enterprise,Germany,Carretera, Medium ,887,3,125,110875,104222.5,106440,-2217.5,12/1/2013,12, December ,2013
+Government,Mexico,Montana, Medium ,980,5,350,343000,322420,254800,,4/1/2014,4, April ,2014
+Government,Germany,Montana, Medium ,1460,5,350,511000,480340,379600,100740,5/1/2014,5, May ,2014
+Government,France,Montana, Medium ,1403,5,7,9821,9231.74,7015,2216.74,10/1/2013,10, October ,2013
+Channel Partners,United States of America,Montana, Medium ,2723,5,12,32676,30715.44,8169,22546.44,11/1/2014,11, November ,2014
+Government,France,Paseo, Medium ,1496,10,350,523600,492184,388960,103224,6/1/2014,6, June ,2014
+Channel Partners,Canada,Paseo, Medium ,2299,10,12,27588,25932.72,6897,19035.72,10/1/2013,10, October ,2013
+Government,United States of America,Paseo, Medium ,727,10,350,254450,239183,189020,50163,10/1/2013,10, October ,2013
+Enterprise,Canada,Velo, Medium ,952,120,125,119000,111860,114240,-2380,2/1/2014,2, February ,2014
+Enterprise,United States of America,Velo, Medium ,2755,120,125,344375,323712.5,330600,-6887.5,2/1/2014,2, February ,2014
+Midmarket,Germany,Velo, Medium ,1530,120,15,22950,21573,15300,6273,5/1/2014,5, May ,2014
+Government,France,Velo, Medium ,1496,120,350,523600,492184,388960,103224,6/1/2014,6, June ,2014
+Government,Mexico,Velo, Medium ,1498,120,7,10486,9856.84,7490,2366.84,6/1/2014,6, June ,2014
+Small Business,France,Velo, Medium ,1221,120,300,366300,344322,305250,39072,10/1/2013,10, October ,2013
+Government,France,Velo, Medium ,2076,120,350,726600,683004,539760,143244,10/1/2013,10, October ,2013
+Midmarket,Canada,VTT, Medium ,2844,250,15,42660,40100.4,28440,11660.4,6/1/2014,6, June ,2014
+Government,Mexico,VTT, Medium ,1498,250,7,10486,9856.84,7490,2366.84,6/1/2014,6, June ,2014
+Small Business,France,VTT, Medium ,1221,250,300,366300,344322,305250,39072,10/1/2013,10, October ,2013
+Government,Mexico,VTT, Medium ,1123,250,20,22460,21112.4,11230,9882.4,11/1/2013,11, November ,2013
+Small Business,Canada,VTT, Medium ,2436,250,300,730800,686952,609000,77952,12/1/2013,12, December ,2013
